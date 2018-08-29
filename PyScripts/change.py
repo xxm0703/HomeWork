@@ -19,4 +19,4 @@ def change(amount, coins):
     return s
 
 
-print(change(10000, 6))
+print(change(1257, 6))
